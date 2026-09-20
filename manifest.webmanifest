@@ -1,13 +1,12 @@
 {
-  "name": "Kristen Training",
-  "short_name": "Training",
-  "start_url": "./",
-  "scope": "./",
-  "display": "standalone",
-  "background_color": "#f7f5f2",
-  "theme_color": "#f7f5f2",
-  "description": "Kristen's recomp training tracker",
-  "icons": [
+  "name":"Kristen Training",
+  "short_name":"KT",
+  "start_url":"./",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#f7f5f2",
+  "theme_color":"#f7f5f2",
+  "icons":[
     {"src":"icon-192.png","sizes":"192x192","type":"image/png"},
     {"src":"icon-512.png","sizes":"512x512","type":"image/png"}
   ]
